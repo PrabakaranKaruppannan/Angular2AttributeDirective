@@ -1,5 +1,5 @@
 # Angular2AttributeDirective
-
+I learned how to create custom attribute directive using angular. when you mouse over the text color is changed to red. when mouse leave, color back to normal.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
